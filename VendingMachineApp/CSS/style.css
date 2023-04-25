@@ -1,0 +1,61 @@
+.vending-machine {
+
+  max-width: 600px;
+
+  margin: 0 auto;
+
+}
+
+
+.product {
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+}
+
+
+.price {
+
+  font-weight: bold;
+
+}
+
+
+.quantity {
+
+  font-style: italic;
+
+  margin-left: 1rem;
+
+}
+
+
+button {
+
+  display: block;
+
+  margin: 1rem 0;
+
+}
+
+
+.insert-coins {
+
+  margin-top: 2rem;
+
+  padding: 1rem;
+
+  border: 2px solid #ccc;
+
+}
+
+
+.messages {
+
+  margin-top: 1rem;
+
+}
